@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "SON\\": "vendor/SON/"
+            "App\\": "App/"
         }
     }
 }
